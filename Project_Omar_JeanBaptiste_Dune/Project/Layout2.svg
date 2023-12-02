@@ -1,0 +1,188 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rectangle 1">
+<g clip-path="url(#clip0_24_3)">
+<g id="Property 1=Default">
+<rect width="1920" height="1080" fill="#E6DDC4"/>
+<g id="Globe" filter="url(#filter0_d_24_3)">
+<rect x="674" y="254" width="578" height="596" fill="#F0E9D2"/>
+</g>
+<g id="Title">
+<text id="Museum piece visualization" fill="#678983" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="50" font-weight="500" letter-spacing="0em"><tspan x="783.2" y="97.575">Museum piece </tspan><tspan x="804.977" y="156.575">visualization</tspan></text>
+</g>
+<rect id="Timeline" x="641" y="941" width="643" height="61" fill="#F0E9D2"/>
+<g id="Works">
+<path id="Rect" d="M1301 0H1859V1080H1301V0Z" fill="#F0E9D2"/>
+<g id="Work info" filter="url(#filter1_d_24_3)">
+<g id="slug">
+<rect id="Rectangle 11" x="1364.75" y="465" width="427.456" height="158.176" fill="#E6DDC4"/>
+<text id="data_slug" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1540.27" y="534.622">data_slug</tspan></text>
+</g>
+<g id="museum">
+<rect id="Rectangle 11_2" x="1364.75" y="216.692" width="427.456" height="50.1543" fill="#E6DDC4"/>
+<text id="data_museum" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1522.97" y="244.013">data_museum</tspan></text>
+</g>
+<g id="technique">
+<rect id="Rectangle 11_3" x="1364.75" y="402.791" width="427.456" height="50.1543" fill="#E6DDC4"/>
+<text id="data_technique" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1516.88" y="430.112">data_technique</tspan></text>
+</g>
+<g id="Place">
+<rect id="Rectangle 11_4" x="1364.75" y="635" width="427.456" height="50.1543" fill="#E6DDC4"/>
+<text id="data_place" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1535.41" y="662.321">data_place</tspan></text>
+</g>
+<g id="date">
+<rect id="Rectangle 11_5" x="1364.75" y="278.725" width="427.456" height="50.1543" fill="#E6DDC4"/>
+<text id="data_date" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1539.27" y="306.046">data_date</tspan></text>
+</g>
+<g id="author">
+<rect id="Rectangle 11_6" x="1364.75" y="340.758" width="427.456" height="50.1543" fill="#E6DDC4"/>
+<text id="data_author" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1530.08" y="368.079">data_author</tspan></text>
+</g>
+<g id="Pieces title">
+<text id="Pieces" fill="#678983" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="30" font-weight="600" letter-spacing="0em"><tspan x="1532.63" y="152.745">Pieces</tspan></text>
+</g>
+<rect id="image_container" x="1358" y="697" width="440" height="309" fill="#E6DDC4"/>
+</g>
+<g id="Work list" filter="url(#filter2_d_24_3)">
+<g id="W10">
+<rect id="Rectangle 11_7" x="1358" y="822.606" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work10" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1549.95" y="849.927">work10</tspan></text>
+</g>
+<g id="W9">
+<rect id="Rectangle 11_8" x="1358" y="760.573" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work9" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="787.894">work9</tspan></text>
+</g>
+<g id="W8">
+<rect id="Rectangle 11_9" x="1358" y="698.54" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work8" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="725.861">work8</tspan></text>
+</g>
+<g id="W7">
+<rect id="Rectangle 11_10" x="1358" y="644.071" width="443" height="41.7299" fill="#E6DDC4"/>
+<text id="work7" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="669.175">work7</tspan></text>
+</g>
+<g id="W6">
+<rect id="Rectangle 11_11" x="1358" y="581.857" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work6" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="609.178">work6</tspan></text>
+</g>
+<g id="W5">
+<rect id="Rectangle 11_12" x="1358" y="519.824" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work5" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="547.145">work5</tspan></text>
+</g>
+<g id="W4">
+<rect id="Rectangle 11_13" x="1358" y="457.791" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work4" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="485.112">work4</tspan></text>
+</g>
+<g id="W3">
+<rect id="Rectangle 11_14" x="1358" y="395.758" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work3" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="423.079">work3</tspan></text>
+</g>
+<g id="W2">
+<rect id="Rectangle 11_15" x="1358" y="333.725" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work2" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="361.046">work2</tspan></text>
+</g>
+<g id="W1">
+<rect id="Rectangle 11_16" x="1358" y="271.692" width="443" height="50.1543" fill="#E6DDC4"/>
+<text id="work1" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="1554.15" y="299.013">work1</tspan></text>
+</g>
+<g id="Pieces title_2">
+<text id="Pieces_2" fill="#678983" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="30" font-weight="600" letter-spacing="0em"><tspan x="1532.76" y="152.745">Pieces</tspan></text>
+</g>
+</g>
+</g>
+<g id="Authors">
+<rect id="Rect_2" x="128" width="492" height="1080" fill="#F0E9D2"/>
+<g id="Authors list" filter="url(#filter3_d_24_3)">
+<g id="A10">
+<rect id="Rectangle 11_17" x="168" y="834.215" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author10" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="330.518" y="858.525">Author10</tspan></text>
+</g>
+<g id="A9">
+<rect id="Rectangle 11_18" x="168" y="771.719" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author9" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="796.03">Author9</tspan></text>
+</g>
+<g id="A8">
+<rect id="Rectangle 11_19" x="168" y="709.224" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author8" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="733.535">Author8</tspan></text>
+</g>
+<g id="A7">
+<rect id="Rectangle 11_20" x="168" y="646.729" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author7" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="671.039">Author7</tspan></text>
+</g>
+<g id="A6">
+<rect id="Rectangle 11_21" x="168" y="584.234" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author6" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="608.544">Author6</tspan></text>
+</g>
+<g id="A5">
+<rect id="Rectangle 11_22" x="168" y="521.739" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author5" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="546.049">Author5</tspan></text>
+</g>
+<g id="A4">
+<rect id="Rectangle 11_23" x="168" y="459.243" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author4" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="483.554">Author4</tspan></text>
+</g>
+<g id="A3">
+<rect id="Rectangle 11_24" x="168" y="396.748" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author3" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="421.059">Author3</tspan></text>
+</g>
+<g id="A2">
+<rect id="Rectangle 11_25" x="168" y="334.253" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author2" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="358.564">Author2</tspan></text>
+</g>
+<g id="A1">
+<rect id="Rectangle 11_26" x="168" y="271.758" width="412.78" height="38.7148" fill="#E6DDC4"/>
+<text id="Author1" fill="#181D31" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="334.715" y="296.068">Author1</tspan></text>
+</g>
+<g id="Author title">
+<text id="Authors_2" fill="#678983" xml:space="preserve" style="white-space: pre" font-family="Roboto Serif" font-size="30" font-weight="600" letter-spacing="0em"><tspan x="317.495" y="207.745">Authors</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<rect x="0.5" y="0.5" width="1919" height="1079" rx="4.5" stroke="#F0E9D2" stroke-dasharray="10 5"/>
+</g>
+<defs>
+<filter id="filter0_d_24_3" x="664" y="245" width="598" height="616" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_24_3"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_24_3" result="shape"/>
+</filter>
+<filter id="filter1_d_24_3" x="1338" y="111.65" width="480" height="915.35" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_24_3"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_24_3" result="shape"/>
+</filter>
+<filter id="filter2_d_24_3" x="1338" y="111.65" width="483" height="782.11" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_24_3"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_24_3" result="shape"/>
+</filter>
+<filter id="filter3_d_24_3" x="148" y="166.92" width="452.78" height="727.01" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_24_3"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_24_3" result="shape"/>
+</filter>
+<clipPath id="clip0_24_3">
+<rect width="1920" height="1080" rx="5" fill="white"/>
+</clipPath>
+</defs>
+</svg>
